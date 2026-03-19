@@ -55,6 +55,12 @@ The system can operate in:
   <img src="poza4.jpeg" width="400">
 </p>
 
+### User Interface (Blynk App)
+
+<p align="center">
+  <img src="poza5.jpeg" width="400">
+</p>
+
 ### Demo Video
 [Watch demo video](https://drive.google.com/file/d/1GQG9NQAnZL4vqzHySLceoQQNIJjPDeEh/view?usp=sharing)
 
