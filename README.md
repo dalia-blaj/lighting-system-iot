@@ -39,10 +39,10 @@ The system can operate in:
 
 ##Project Images
 
-![ESP32 conections(light sensor + OLED display](poza1.jpg)
-![prototype exterior](poza2.jpg)
-![hardware ](poza3.jpg)
-![light sensor](poza4.jpg)
+![ESP32 conections(light sensor + OLED display](poza1.png)
+![prototype exterior](poza2.jpeg)
+![hardware ](poza3.jpeg)
+![light sensor](poza4.jpeg)
 
 ##Demo Video
 [Watch demo video](https://drive.google.com/file/d/1GQG9NQAnZL4vqzHySLceoQQNIJjPDeEh/view?usp=sharing)
