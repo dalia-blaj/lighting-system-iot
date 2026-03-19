@@ -1,4 +1,4 @@
-## Lighting-system-iot
+## Smart Lighting System(IoT)
 An IoT smart lighting system with OLED display, RGBW LED control, and remote reminders via the Blynk cloud
 
 ### Overview
@@ -56,15 +56,12 @@ The system can operate in:
 </p>
 
 ### Demo Video
-
 [Watch demo video](https://drive.google.com/file/d/1GQG9NQAnZL4vqzHySLceoQQNIJjPDeEh/view?usp=sharing)
 
 ### Note
-
 This project is a functional prototype developed for academic purposes. It was implemented on a breadboard with a handmade enclosure.
 
 ### Author
-
 Blaj Dalia Mihaela
 
 
