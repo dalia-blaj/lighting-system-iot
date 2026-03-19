@@ -56,7 +56,6 @@ The system can operate in:
 </p>
 
 ### User Interface (Blynk App)
-
 <p align="center">
   <img src="poza5.jpeg" width="400">
 </p>
